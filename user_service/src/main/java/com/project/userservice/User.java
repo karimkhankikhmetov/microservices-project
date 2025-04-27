@@ -1,4 +1,4 @@
-package com.project.userservice.entity;
+package com.project.userservice;
 
 import jakarta.persistence.*;
 import lombok.Data;
